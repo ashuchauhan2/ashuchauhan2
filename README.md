@@ -51,7 +51,7 @@ Here are a couple of projects I'm proud of:
 *   ### [Gastimator](https://gastimator.vercel.app/) - ([Repo](https://github.com/ashuchauhan2/Gastimator))
     *   A web utility to estimate trip fuel costs based on route, vehicle efficiency, and gas prices.
     *   Integrates the Google Maps Distance Matrix API.
-    *   *Tech Stack:* Next.js, React, JavaScript, Google Maps API
+    *   *Tech Stack:* Next.js, React, TypeScript, Google Maps API
 
 ---
 
