@@ -48,10 +48,10 @@ Here are a couple of projects I'm proud of:
     *   Features include targeted course suggestions, graduation tracking, and encrypted grade storage.
     *   *Tech Stack:* Next.js, React, TypeScript, Node.js
 
-*   ### [Gastimator](https://gastimator.vercel.app/) - ([Repo](https://github.com/ashuchauhan2/Gastimator))
-    *   A web utility to estimate trip fuel costs based on route, vehicle efficiency, and gas prices.
-    *   Integrates the Google Maps Distance Matrix API.
-    *   *Tech Stack:* Next.js, React, TypeScript, Google Maps API
+*   ### [Astro AutoTapper] - ([Repo](https://github.com/ashuchauhan2/AstroAutotapper))
+    *   An android overlay app to select a target on screen to be tapped at a specified interval.
+    *   Ability to automate astro photography on mobile devices and capture sequences of movements overnight using a large interval.
+    *   *Tech Stack:* Kotlin, Android SDK
 
 ---
 
