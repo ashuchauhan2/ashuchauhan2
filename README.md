@@ -64,8 +64,5 @@ Here are a couple of projects I'm proud of:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuchauhan2&show_icons=true&theme=radical&rank_icon=github" alt="Ashu's GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuchauhan2&layout=compact&theme=radical" alt="Top Languages" />
 </p>
