@@ -3,12 +3,12 @@
 <a href="https://linkedin.com/in/ashuc27" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://ashuchauhan.com" target="_blank"><img align="right" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
 
-I'm a **Computer Science student** at Brock University (Expected Graduation: July 2025), passionate about building efficient and user-friendly web applications and exploring the world of software development.
+I am a recent Computer Science graduate from Brock University passionate about building efficient and user-friendly software, and the overall software engineering world.
 
-*   🎓 Studying BSc Computer Science @ Brock University.
+*   🎓 Studied BSc Computer Science @ Brock University.
 *   🚀 Building projects with React, Next.js, TypeScript, and Python.
-*   💡 Interested in full-stack development, web technologies, and problem-solving.
-*   🌱 Currently seeking **entry-level Software Engineering** opportunities starting Summer/Fall 2025.
+*   💡 Interested in full-stack development, mobile development, and problem-solving.
+*   🌱 Currently seeking **entry-level Software Engineering** opportunities.
 
 ---
 
