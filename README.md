@@ -48,7 +48,7 @@ Here are a couple of projects I'm proud of:
     *   Features include targeted course suggestions, graduation tracking, and encrypted grade storage.
     *   *Tech Stack:* Next.js, React, TypeScript, Node.js
 
-*   ### [Astro AutoTapper] - ([Repo](https://github.com/ashuchauhan2/AstroAutotapper))
+*   ### [Astro AutoTapper](https://youtu.be/JttZY6Wco1k) - ([Repo](https://github.com/ashuchauhan2/AstroAutotapper))
     *   An android overlay app to select a target on screen to be tapped at a specified interval.
     *   Ability to automate astro photography on mobile devices and capture sequences of movements overnight using a large interval.
     *   *Tech Stack:* Kotlin, Android SDK
